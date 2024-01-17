@@ -1,4 +1,5 @@
-# Sample-superstore-project
+# Sample-superstore-project 
+# The sparks foundation internship
 
 In this task we will perform EDA on sample superstore dataset.
 
